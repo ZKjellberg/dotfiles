@@ -9,9 +9,6 @@ utf8 on on
 monitor on
 defmonitor on
 
-# Change escape command from ctrl-a to ctrl-z
-escape ^za
-
 autodetach on
 
 hardstatus on
